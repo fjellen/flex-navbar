@@ -49,6 +49,7 @@
 .dropdown-content {
     display: none;
     position: absolute;
+    top: 60px;
     background-color: #3A45F0;
     min-width: 100px;
     z-index: 1;
